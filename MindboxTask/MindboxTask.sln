@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaCalculator", "FigureAreaCalculator\FigureAreaCalculator.csproj", "{091D3E41-CC75-444A-984C-E3D63EA74537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureAreaTests", "FigureAreaTests\FigureAreaTests.csproj", "{E2BA1F6A-DDE1-4A37-9139-2B0CFD29F697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{091D3E41-CC75-444A-984C-E3D63EA74537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{091D3E41-CC75-444A-984C-E3D63EA74537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{091D3E41-CC75-444A-984C-E3D63EA74537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BA1F6A-DDE1-4A37-9139-2B0CFD29F697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BA1F6A-DDE1-4A37-9139-2B0CFD29F697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BA1F6A-DDE1-4A37-9139-2B0CFD29F697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BA1F6A-DDE1-4A37-9139-2B0CFD29F697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
